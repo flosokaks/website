@@ -1,3 +1,7 @@
+---
+layout: default
+title: Free/Libre Open Source and Open Knowledge Association of Kansas
+---
 ## [Free/Libre Open Source and Open Knowledge Association of Kansas](http://www.openkansas.us/)
 
   * Home
