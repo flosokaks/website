@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var b=window,e="chrome",g="tick",h="wtsrt_",l="tbsd_",m="tbnd_",n="start",p="_wtsrt",q="_tbnd",r="CSI/";(function(){function k(a){this.t={};this.tick=function(a,d,c){this.t[a]=[void 0!=c?c:(new Date).getTime(),d];if(void 0==c)try{b.console.timeStamp(r+a)}catch(f){}};this[g](n,null,a)}var a;b.performance&&(a=b.performance.timing);var s=a?new k(a.responseStart):new k;b.jstiming={Timer:k,load:s};if(a){var d=a.navigationStart,f=a.responseStart;0<d&&f>=d&&(b.jstiming.srt=f-d)}if(a){var c=b.jstiming.load;0<d&&f>=d&&(c[g](p,void 0,d),c[g](h,p,f),c[g](l,h))}try{a=null,b[e]&&b[e].csi&&(a=Math.floor(b[e].csi().pageT),
+c&&0<d&&(c[g](q,void 0,b[e].csi().startE),c[g](m,q,d))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<d&&(c[g](q,void 0,b.external.startE),c[g](m,q,d))),a&&(b.jstiming.pt=a)}catch(t){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/9cd39a/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var d=window,e="length",h="",k="__duration__",l="function";function m(c){return document.getElementById(c)}d.byId=m;function n(c){return c.replace(/^\s+|\s+$/g,h)}d.trim=n;var p=[],q=0;d.JOT_addListener=function(c,a,b){var f=new String(q++);c={eventName:c,handler:a,compId:b,key:f};p.push(c);return f};d.JOT_removeListenerByKey=function(c){for(var a=0;a<p[e];a++)if(p[a].key==c){p.splice(a,1);break}};d.JOT_removeAllListenersForName=function(c){for(var a=0;a<p[e];a++)p[a].eventName==c&&p.splice(a,1)};
+d.JOT_postEvent=function(c,a,b){var f={eventName:c,eventSrc:a||{},payload:b||{}};if(d.JOT_fullyLoaded)for(a=p[e],b=0;b<a&&b<p[e];b++){var g=p[b];g&&g.eventName==c&&(f.listenerCompId=g.compId||h,(g=typeof g.handler==l?g.handler:d[g.handler])&&g(f))}else d.JOT_delayedEvents.push({eventName:c,eventSrc:a,payload:b})};d.JOT_delayedEvents=[];d.JOT_fullyLoaded=!1;
+d.JOT_formatRelativeToNow=function(c,a){var b=((new Date).getTime()-c)/6E4;if(1440<=b||0>b)return null;var f=0;60<=b&&(b/=60,f=2);2<=b&&f++;return a?d.JOT_siteRelTimeStrs[f].replace(k,Math.floor(b)):d.JOT_userRelTimeStrs[f].replace(k,Math.floor(b))}; })()
+</script>
+<script>
+
+
+var webspace = {"scottyUrl":"/_/upload","isConsumer":true,"canPublishScriptToAnyone":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"sharingUrlPrefix":"/_/sharing","csiReportUri":"http://csi.gstatic.com/csi","sharingPolicy":"OPENED","siteNoticeUrlEnabled":null,"siteNoticeUrlAddress":null,"analyticsAccountId":"UA-54320514-1","baseUri":"","enableUniversalAnalytics":false,"name":"flosokaks","features":{"tabInEditorBubble":false,"copySiteProgressUpdates":true,"asyncPermanentDelete":false,"colorsAndFontsFix":true,"docosHideNotificationSettings":true,"siteNoticeUrl":true,"asyncPageKeyFix":true,"pdfEmbedSupport":false,"siteMapBottomPaginationButtonsFix":true,"plusBadge":false,"scaleDomainLogoAndUpdatePickerLayout":true,"hangoutEmbed":true,"analyticsTrackingForCorp":false,"addShortcutToTextBoxDialog":true,"htmlEmbed":true,"newCountDownDialog":true,"newKeyboardShortcuts":true,"pageTreeKeyboardFix":true},"domain":"defaultdomain","adsensePublisherId":null,"gvizVersion":1,"siteTitle":"Free/Libre Open Source and Open Knowledge Association of Kansas","signInUrl":"https://www.google.com/a/SelectSession?continue\u003dhttp://sites.google.com/site/flosokaks/hacklabscomputer-clubs/other-states\u0026service\u003djotspot","pageSharingId":"jotspot_page","plusPageId":"","onepickBaseUrl":"https://docs.google.com","siteNoticeRevision":1,"termsUrl":"http://sites.google.com/site/sites/system/app/pages/meta/terms","enableAnalytics":true,"isPublic":true,"siteNoticeMessage":"","plusPageUrl":"","homePath":"/","sharingId":"jotspot","isAdsenseEnabled":true,"adsensePromoClickedOrSiteIneligible":true,"isStartPageEnabled":false,"domainAnalyticsAccountId":""};
+
+
+
+webspace.gadgets = {"baseUri":"/system/app/pages/gadgets"};
+
+
+webspace.user = {"uid":"","renderMobile":false,"namespaceUser":false,"sessionIndex":"","primaryEmail":"guest","displayNameOrEmail":"guest","namespace":"","hasAdminAccess":false,"guest_":true,"keyboardShortcuts":true,"hasWriteAccess":false,"domain":"","dasherUser":false,"userName":"guest"};
+
+webspace.page = {"canDeleteWebspace":null,"locale":"en","state":"","wuid":"wuid:gx:522465246531f69","pageInheritsPermissions":null,"timeZone":"America/Los_Angeles","properties":{},"type":"text","canChangePath":true,"parentWuid":"wuid:gx:79d878a76ed9e77e","revision":10,"title":"Other states","isRtlLocale":false,"bidiEnabled":false,"siteLocale":"en","name":"other-states","path":"/hacklabscomputer-clubs/other-states","isSiteRtlLocale":false,"parentPath":"/hacklabscomputer-clubs"};
+webspace.page.breadcrumbs = [{"title":"Hacklabs/Computer Clubs","dir":"ltr","path":"/hacklabscomputer-clubs","deleted":false},{"title":"Other states","dir":"ltr","path":"/hacklabscomputer-clubs/other-states","deleted":false}];
+
+
+webspace.editorResources = {
+  text: [
+    'http://www.gstatic.com/sites/p/9cd39a/system/js/codemirror.js',
+    'http://www.gstatic.com/sites/p/9cd39a/system/app/css/codemirror_css.css',
+    'http://www.gstatic.com/sites/p/9cd39a/system/js/trog_edit__en.js',
+    'http://www.gstatic.com/sites/p/9cd39a/system/app/css/trogedit.css',
+    '/_/rsrc/1408536942000/system/app/css/editor.css',
+    'http://www.gstatic.com/sites/p/9cd39a/system/app/css/codeeditor.css',
+    '/_/rsrc/1408536942000/system/app/css/camelot/editor-jfk.css'
+  ],
+  sitelayout: [
+    'http://www.gstatic.com/sites/p/9cd39a/system/app/css/sitelayouteditor.css'
+  ]
+};
+
+var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/9cd39a/system/app/images/cleardot.gif';
+
+
+var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+webspace.siteTemplateId = false;
+
+
+webspace.page.currentTemplate = {"title":"Web Page","path":"/system/app/pagetemplates/text"};
+
+
+
+var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<link rel="canonical" href="http://www.openkansas.us/hacklabscomputer-clubs/other-states" />
+<meta name="title" content="Other states - Free/Libre Open Source and Open Knowledge Association of Kansas" />
+<meta itemprop="name" content="Other states - Free/Libre Open Source and Open Knowledge Association of Kansas" />
+<meta property="og:title" content="Other states - Free/Libre Open Source and Open Knowledge Association of Kansas" />
+<meta name="description" content="Promoting of Free/Libre Open Source Software and Open Knowledge in Kansas" />
+<meta itemprop="description" content="Promoting of Free/Libre Open Source Software and Open Knowledge in Kansas" />
+<meta id="meta-tag-description" property="og:description" content="Promoting of Free/Libre Open Source Software and Open Knowledge in Kansas" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/9cd39a/system/app/themes/opensky/standard-css-opensky-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1408536942000/system/app/css/overlay.css?cb=opensky150goog-ws-leftnone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1408536942000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Other states - Free/Libre Open Source and Open Knowledge Association of Kansas</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<script src="//www.gstatic.com/caja/5678/caja.js"> </script>
+<script src="http://www.gstatic.com/sites/p/9cd39a/system/js/jot_caja.js"> </script>
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class=""><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.openkansas.us/" dir="ltr" id="sites-chrome-userheader-title">Free/Libre Open Source and Open Knowledge Association of Kansas</a></h2></div></td><td class="sites-layout-searchbox "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container">
+</td>
+</tr>
+</table> 
+</div> 
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed"><div class="sites-embed-content sites-sidebar-nav"><ul jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:3d0e1b5dcf5ea43d"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/home" jotId="wuid:gx:3d0e1b5dcf5ea43d" class="sites-navigation-link topLevel">Home</a></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/home/mailing-list" jotId="wuid:gx:52a6111312699944" class="sites-navigation-link">Mailing List</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/donate" jotId="wuid:gx:a319b58d7d821e4" class="sites-navigation-link topLevel">Donate</a></div></li><li class="topLevel parent " wuid="gx:22ee096655197121"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/events-1" jotId="wuid:gx:22ee096655197121" class="sites-navigation-link topLevel">Events</a></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/events-1/past" jotId="wuid:gx:1c1fd68a5ae6470a" class="sites-navigation-link">Past</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/events-1/yearlyfreelibresoftwareconferenceinthesunflowerstate" jotId="wuid:gx:faa2fa12a0fb335" class="sites-navigation-link">Yearly Free/Libre Software Conference in the Sunflower State</a></div></li></ul></li><li class="topLevel parent " wuid="gx:79d878a76ed9e77e"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/hacklabscomputer-clubs" jotId="wuid:gx:79d878a76ed9e77e" class="sites-navigation-link topLevel">Hacklabs/Computer Clubs</a></div><ul class="has-expander"><li class=""><div class="current-bg" jotId="wuid:gx:522465246531f69" dir="ltr" style="padding-left: 38px;">Other states</div></li></ul></li><li class="topLevel parent " wuid="gx:67b7605075b7505e"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/projects" jotId="wuid:gx:67b7605075b7505e" class="sites-navigation-link topLevel">Projects</a></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/disabled" jotId="wuid:gx:728b0057a5ad8978" class="sites-navigation-link">Disabled</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/educational-and-social-institutions" jotId="wuid:gx:28bf36d61cc48dfd" class="sites-navigation-link">Educational and Social Institutions</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/open-source-hardware" jotId="wuid:gx:896e29ef106976d" class="sites-navigation-link">Open Source Hardware</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/open-source-tour-of-kansas" jotId="wuid:gx:7d37241efbadd602" class="sites-navigation-link">Open Source Tour of Kansas</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/open-street-map" jotId="wuid:gx:448d7ff0486fcb5c" class="sites-navigation-link">Open Street Map</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/projects/wikipedia" jotId="wuid:gx:639aae2c71565714" class="sites-navigation-link">Wikipedia</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:1874d8afe051b0db" class="sites-navigation-link topLevel">Sitemap</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A dir="ltr" href="/hacklabscomputer-clubs">Hacklabs/Computer Clubs</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr">Other states</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><br /><ul><li>Oklahoma</li><ul><li><a href="http://techlahoma.org/"></a><b><a href="http://techlahoma.org/#">Techlahoma</a></b><a href="http://techlahoma.org/"> http://techlahoma.org/</a></li></ul><li>Colorado</li><ul><li>North Colorado User Group <a href="http://www.nclug.org/">http://www.nclug.org/</a></li><li>Boulder <a href="http://lug.boulder.co.us/">http://lug.boulder.co.us/</a></li><li>Big List of Groups : <a href="http://www.rmima.org/user.html">http://www.rmima.org/user.html</a><br /></li></ul><li>Nebraska</li><ul><li>Omaha LUG <a href="http://www.olug.org/">http://www.olug.org/</a></li><li>Omaha Maker Group <a href="http://omahamakergroup.org/">http://omahamakergroup.org/</a><br /></li><li>Omaha Python <a href="http://www.omahapython.org/blog/">http://www.omahapython.org/blog/</a></li></ul><li>California<br /></li><ul><li>Scale Southern California Linux Expo  <a href="http://www.socallinuxexpo.org">http://www.socallinuxexpo.org</a></li><li>Open Source Business Conference <a href="https://www.etouches.com/ehome/50794">https://www.etouches.com/ehome/50794</a><br /></li></ul></ul><ul><li>Indiana <br /></li><ul><li><span><i>Indiana F/OSS Society </i></span><a href="http://indianalinux.org/">http://indianalinux.org/</a></li></ul></ul></div><div><ul><li>Kentucky</li></ul><ul style="margin-left:40px"><li>KYOSS The Kentucky Open Source Society <a href="http://kyoss.org/">http://kyoss.org/</a></li></ul><ul><li>Florida <br /></li><ul><li><a href="http://fossetcon.org"><cite><b>fossetcon</b>.org</cite></a></li></ul></ul><ul><li>Massachusetts</li></ul><ul style="margin-left:40px"><li><a href="http://northeastlinuxfest.org/">Northeast GNU/Linux Fest<br /></a><a href="http://northeastlinuxfest.org/">http://northeastlinuxfest.org/</a><br /></li></ul><ul><li>Ohio</li><ul><li>The Ohio LinuxFest Corporation <a href="http://www.ohiolinux.org">http://www.ohiolinux.org</a></li></ul></ul></div><div><ul><li>South Carolina </li><ul><li>SouthEast LinuxFest <a href="http://www.southeastlinuxfest.org/">http://www.southeastlinuxfest.org/</a></li></ul></ul></div><div><ul><li>Texas<br /></li><ul><li>Texas Linux Fest <a href="http://texaslinuxfest.org/">http://texaslinuxfest.org/</a><br /></li></ul></ul><div><ul><li>Washington</li><ul><li>LinuxFest Northwest <a href="http://www.linuxfestnorthwest.org/">http://www.linuxfestnorthwest.org/</a></li></ul></ul><ul><li> Toronto, Canada<br /></li></ul><ul style="margin-left:40px"><li> <a href="http://fsoss.senecac.on.ca">Free Software and Open Source Symposium (FSOSS) @Seneca College,</a></li></ul><ul><li> Nationwide</li><ul><li><a href="http://www.oscon.com/">http://www.oscon.com/</a><br /></li></ul></ul></div></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=http://sites.google.com/site/flosokaks/hacklabscomputer-clubs/other-states">Sign in</a>|<a class="sites-system-link" href="/system/app/pages/recentChanges">Recent Site Activity</a>|<a class="sites-system-link" href="/system/app/pages/reportAbuse" target="_blank">Report Abuse</a>|<a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a>|<span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/9cd39a/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+    
+        sites.core.Analytics.createTracker();
+        sites.core.Analytics.trackPageview();
+      
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXtsJW7QezVjuP1sAiDbhWiwlqN0IYkXk2aj43qWmc6ZPwT3kFId4hlQCvppg_OcZjZ-LWqsXndKOglsMTnZ7hMvsfk26Z_9E8LRP7lKmKqxI31YCeNkQOYbuBRwdEguRD9e4iGt/api/js?anon=true', true, true,
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([]);
+    gsites.Xhr.send('http://www.openkansas.us/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+ //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupNoticeManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
