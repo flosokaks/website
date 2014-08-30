@@ -1,41 +1,8 @@
-## [Free/Libre Open Source and Open Knowledge Association of
-Kansas](http://www.openkansas.us/)
-
-Search this site
-
-  * [Home](/home)
-
-    * [Mailing List](/home/mailing-list)
-
-  * [Donate](/donate)
-
-  * [Events](/events-1)
-
-    * [Past](/events-1/past)
-
-    * [Yearly Free/Libre Software Conference in the Sunflower State](/events-1/yearlyfreelibresoftwareconferenceinthesunflowerstate)
-
-  * [Hacklabs/Computer Clubs](/hacklabscomputer-clubs)
-
-    * [Other states](/hacklabscomputer-clubs/other-states)
-
-  * [Projects](/projects)
-
-    * [Disabled](/projects/disabled)
-
-    * Educational and Social Institutions
-
-    * [Open Source Hardware](/projects/open-source-hardware)
-
-    * [Open Source Tour of Kansas](/projects/open-source-tour-of-kansas)
-
-    * [Open Street Map](/projects/open-street-map)
-
-    * [Wikipedia](/projects/wikipedia)
-
-  * [Sitemap](/system/app/pages/sitemap/hierarchy)
-
-[Projects](/projects)‎ > ‎
+---
+layout: default
+title: Projects : Educational and Social Institutions
+---
+## [Free/Libre Open Source and Open Knowledge Association ofKansas](http://www.openkansas.us/)
 
 ###  Educational and Social Institutions
 
