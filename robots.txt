@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /feeds
-Disallow: /*/_/
-Sitemap: http://www.openkansas.us:80/system/feeds/sitemap
