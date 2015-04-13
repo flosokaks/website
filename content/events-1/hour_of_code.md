@@ -65,7 +65,6 @@ https://github.com/rhc2104 is contributing.
 https://github.com/ottok/code-dot-org ottok is a finnish company.
 https://github.com/pickettd is a contributor.
 
-
 See the original code.org website here
 https://web.archive.org/web/20120706043908/http://code.org/
 
