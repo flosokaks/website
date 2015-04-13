@@ -66,6 +66,9 @@ https://github.com/ottok/code-dot-org ottok is a finnish company.
 https://github.com/pickettd is a contributor.
 
 
+See the original code.org website here
+https://web.archive.org/web/20120706043908/http://code.org/
+
 He says that all curriculum will be under an creative commons license
 "All curriculum resources and tutorials we author are free to use under a
 Creative Commons license" on the website it says.
@@ -75,6 +78,9 @@ not licensed for reuse.
 The curriculum is supposed to be creative commons, but it is not hosted on the
 site and not in an open source format, it is linked as a pdf file on
 amazon. There is no history of the curriculum and it is also using creative
-commons non commercial which is troubling on it's own. See 
+commons non commercial which is troubling on it's own.
 
-https://web.archive.org/web/20120706043908/http://code.org/
+See the ruling in Germany on the non commercial usage, it is very restrictive.
+https://www.techdirt.com/articles/20140326/11405526695/german-court-says-creative-commons-non-commercial-licenses-must-be-purely-personal-use.shtml
+
+
