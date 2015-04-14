@@ -35,7 +35,7 @@ https://web.archive.org/web/20130125044000/http://www.code.org/about
 * Hadi Partovi, Iranian entrpeneur. Has 0 contributions on github. https://github.com/hadipartovi
 * Nat Browen : https://github.com/natbro
 
-Here is a keynote from him:
+Here is a keynote from himHadi Partovi:
 http://opensource.com/education/14/4/Hadi-Partovi-computer-science-keynote
 
 He names the two major financial sposors :Microsoft and Google.
@@ -64,7 +64,7 @@ that company.
 https://github.com/rhc2104 is contributing.
 https://github.com/ottok/code-dot-org ottok is a finnish company.
 https://github.com/pickettd is a contributor.
-
+    
 See the original code.org website here
 https://web.archive.org/web/20120706043908/http://code.org/
 
