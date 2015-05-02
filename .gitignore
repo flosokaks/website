@@ -52,3 +52,20 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+/_site/system/app/pages/recentChanges
+/_site/system/app/pages/recentChanges?offset=0
+/_site/system/app/pages/recentChanges?offset=100
+/_site/system/app/pages/recentChanges?offset=25
+/_site/system/app/pages/recentChanges?offset=50
+/_site/system/app/pages/recentChanges?offset=75
+/_site/system/app/pages/reportAbuse
+/_site/system/app/pages/sitemap/hierarchy
+/_site/system/app/pages/sitemap/hierarchy.md
+/hacklabscomputer-clubs.md~
+/index.md~
+/projects/#disabled.md#
+/_site/robots.txt
+/_site/stylesheets/pygment_trac.css
+/_site/stylesheets/styles.css
+/#donate.md#
+/_site/LICENSE
