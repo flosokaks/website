@@ -88,3 +88,29 @@ see more
 ========
 http://www.goodbyemicrosoft.net/e107_plugins/content/content.php?content.5
 http://www.tomshardware.com/forum/236825-50-linux-pentium
+
+ISOS
+====== 
+
+* http://distro.ibiblio.org/tinycorelinux/6.x/x86/release/CorePlus-current.iso
+* http://distro.ibiblio.org/tinycorelinux/6.x/x86/release/TinyCore-current.iso
+* http://hivelocity.dl.sourceforge.net/project/wclp/wclp/0.8.1/wclp-0.8.1.iso
+* http://ftp.linux.cz/pub/linux/slax/Slax-7.x/7.0.8/slax-English-US-7.0.8-i486.iso
+* http://hivelocity.dl.sourceforge.net/project/legacyoslinux/LOS2.1GAMER.iso
+* http://iweb.dl.sourceforge.net/project/legacyoslinux/Legacy%20OS%202.1%20LTS.iso
+* http://distro.ibiblio.org/tinycorelinux/6.x/x86/release/CorePlus-current.iso
+* http://distro.ibiblio.org/tinycorelinux/6.x/x86/release/TinyCore-current.iso
+* http://distro.ibiblio.org/tinycorelinux/6.x/x86/release/Core-current.iso
+* http://distro.ibiblio.org/damnsmall/release_candidate/dsl-4.11.rc2.iso
+* http://distro.ibiblio.org/damnsmall/release_candidate/dsl-4.11.rc2-syslinux.iso
+* http://distro.ibiblio.org/damnsmall/release_candidate/dsl-4.11.rc1.iso
+* http://mirror.csclub.uwaterloo.ca/linuxmint//stable/17.1/linuxmint-17.1-cinnamon-64bit.iso
+* http://mirrors-usa.go-parts.com/linuxmint//stable/17.1/linuxmint-17.1-cinnamon-32bit.iso
+* http://d2p7joxp2iwff0.cloudfront.net/lubuntu-15.04-desktop-i386.iso
+* http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-SOHO-FINAL1-CD2.iso
+* http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-SOHO-FINAL1.iso
+* http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-LIGHT.iso
+* http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-STD-GOLD.iso
+* http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-STD-GOLD-LIVE.iso
+* http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0-CE_noPAE.iso
+* http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0-CE_PAE.iso
