@@ -114,3 +114,62 @@ ISOS
 * http://vectorlinux.osuosl.org/veclinux-7.0/iso-release/VL7.0-STD-GOLD-LIVE.iso
 * http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0-CE_noPAE.iso
 * http://ftp.nluug.nl/ftp/pub/os/Linux/distr/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0-CE_PAE.iso
+
+
+d17df56033b1ada53192f08a29a72a62  CorePlus-current.iso
+
+c55d4e4dbcefc96a6e11b5c1adddac13  debian-6.0.8-amd64-CD-1.iso http://cdimage.debian.org/mirror/cdimage/archive/6.0.8/amd64/jigdo-cd/MD5SUMS
+
+5462bbfda8ee606bb18649b2c68e804a  debian-live-7.2-amd64-standard.iso
+http://ftp.genotec.ch/pub/debian-cd/7.2.0-live/amd64/iso-hybrid/MD5SUMS
+
+c4eccc619de6e24a305fc5f49e729522  Fedora-Live-SoaS-i686-19-1.iso Sugar on a Stick is a Fedora-based operating system 
+http://www.linuxliveusb.com/updates/linux_details.php?c=fedorasoas-19
+
+c6916bf42f43e1a59237d253248824dc  Fedora-Live-SoaS-x86_64-19-1.iso
+
+ba37c23ae62bbe7927befe65ae639528  Legacy OS 2.1 LTS.iso
+http://iso.linuxquestions.org/legacy-os/legacy-os-2.1-lts/
+
+d1a9474f4f48c3a2220ddd1ff57f76b3  linuxmint-17.1-cinnamon-32bit.iso
+0307ffcd5046c176599904193899426e  linuxmint-17.1-cinnamon-64bit.iso
+http://www.linuxmint.com/edition.php?id=171
+
+http://www.linuxmint.com/edition.php?id=100
+6f35b278e027ce6c26456f41346faf76  linuxmint-201303-mate-dvd-64bit.iso
+
+1c7afdf53b5da44011d72cffaefec389  linux-secure-13.04-64bit.iso
+http://sourceforge.net/projects/linux-secure/
+
+c3aeeed0a8587b0b5264186a4031785f  LOS2.1GAMER.iso
+http://www.murga-linux.com/puppy/viewtopic.php?t=87145&sid=16db2927c76989b08c91e9991dc4f083
+
+b66f9a0a87289be57cb3eb84f153c01d  lubuntu-15.04-desktop-i386.iso
+http://cdimage.ubuntu.com/lubuntu/releases/15.04/release/lubuntu-15.04-desktop-i386.metalink
+
+
+869494b021fd13c1f17c6fc07de9f42d  slax-English-US-7.0.8-i486.iso
+http://linuxfreedom.com/slax/md5sum.txt
+
+a9e267565bfcb6ac24d81fb7e535ab78  tahr-6.0-CE_noPAE.iso
+http://distro.ibiblio.org/puppylinux/puppy-tahr/iso/tahrpup%20-6.0-CE/tahr-6.0-CE_noPAE.iso.md5.txt
+
+aa5975951f794ef933d6d6b919553ed6  tahr-6.0-CE_PAE.iso
+http://iso.linuxquestions.org/puppy-linux/puppy-linux-6.0-tahrpup/
+
+
+ac493e96ef82367dd6d33e7e6e96c3a0  TinyCore-current.iso
+http://tinycorelinux.net/
+
+8de16c704eb7466566bf66f240867420  uberstudent-3.0-xfce-amd64.iso
+http://iso.linuxquestions.org/uberstudent/uberstudent-3.0/
+
+8dda595365e1c9e244fc1c54b86ba0a6  VL7.0-LIGHT.iso
+http://linuxfreedom.com/vector/VL7.0-LIGHT.iso.md5.txt
+
+44d284cdee938486b88496f2952fdc2b  VL7.0-SOHO-FINAL1-CD2.iso
+http://iso.linuxquestions.org/vectorlinux/vectorlinux-7.0-soho/
+
+7667f09d87bf2961b942f886be8f00fe  VL7.0-SOHO-FINAL1.iso
+http://ftp.slackware.com/pub/vectorlinux/veclinux-7.0/iso-release/VL7.0-SOHO-FINAL1.md5sum
+
