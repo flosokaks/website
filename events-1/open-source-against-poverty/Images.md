@@ -173,3 +173,5 @@ http://iso.linuxquestions.org/vectorlinux/vectorlinux-7.0-soho/
 7667f09d87bf2961b942f886be8f00fe  VL7.0-SOHO-FINAL1.iso
 http://ftp.slackware.com/pub/vectorlinux/veclinux-7.0/iso-release/VL7.0-SOHO-FINAL1.md5sum
 
+c302b390e653388a353aaf8b1dca15  uberstudent-3.0-xfce-i386.iso
+http://iso.linuxquestions.org/uberstudent/uberstudent-3.0/
